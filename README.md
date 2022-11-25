@@ -4,9 +4,11 @@
 
 ## Install on Ubuntu/Debian
 
-1. Install redis
-2. Install appropriate PHP extension
-3. Edit .env file
+    1. Install redis
+    2. Install appropriate PHP extension
+    3. Edit .env file
+
+***
 
 > #### Prerequisites
 > If you're running a very minimal distribution (such as a Docker container) you may need to install lsb-release first:
