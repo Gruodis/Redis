@@ -4,9 +4,9 @@
 
 ## Install on Ubuntu/Debian
 
--   1. Install redis
-    2. Install appropriate PHP extension
-    3. Edit .env file
+-    Install redis
+     Install appropriate PHP extension
+     Edit .env file
 
 ***
 
