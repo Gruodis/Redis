@@ -10,7 +10,7 @@
 -    Edit .env file
 
 
-## To start Redis server:
+## To Start Redis server:
 ```bash
 redis-server
 ```
