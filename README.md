@@ -8,7 +8,7 @@
 -    Install appropriate PHP extension
 -    Edit .env file
 
----------------------------------------
+/---------------------------------------/
 
 > #### Prerequisites
 > If you're running a very minimal distribution (such as a Docker container) you may need to install lsb-release first:
