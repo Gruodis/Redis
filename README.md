@@ -26,6 +26,9 @@ echo "deb [signed-by=/usr/share/keyrings/redis-archive-keyring.gpg] https://pack
 sudo apt-get update
 sudo apt-get install redis
 ```
+#### Confirm Redis version
+    redis-cli
+
 ## Install Redis PHP extension:
 Extension for **PHP 7.4**
 ```bash
