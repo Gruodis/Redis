@@ -2,12 +2,19 @@
 
 <h1 align="center">Redis with PHP 7.4</h1>
 
+
 ## Install on Ubuntu/Debian
 
 -    Install redis
 -    Install appropriate PHP extension
 -    Edit .env file
 
+
+## To start Redis server:
+```bash
+redis-server
+```
+            
 <br>
 <br>
 
