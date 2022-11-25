@@ -17,6 +17,9 @@
 > sudo apt install lsb-release
 > ```
 
+<br>
+<br>
+
 Add the repository to the apt index, update it, and then install:
 ```bash
 curl -fsSL https://packages.redis.io/gpg | sudo gpg --dearmor -o /usr/share/keyrings/redis-archive-keyring.gpg
@@ -26,8 +29,15 @@ echo "deb [signed-by=/usr/share/keyrings/redis-archive-keyring.gpg] https://pack
 sudo apt-get update
 sudo apt-get install redis
 ```
+
+<br>
+<br>
+
 #### Confirm Redis version
     redis-cli
+
+<br>
+<br>
 
 ## Install Redis PHP extension:
 Extension for **PHP 7.4**
