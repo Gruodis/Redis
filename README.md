@@ -62,8 +62,16 @@ sudo apt-get install redis
 <br>
 <br>
 
-#### Confirm Redis version
+### Confirm Redis version
     redis-cli
+
+<br>
+
+
+## Create symlink
+```bash
+sudo systemctl enable redis-server
+```
 
 <br>
 <br>
